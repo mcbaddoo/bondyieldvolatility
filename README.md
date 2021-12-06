@@ -1,2 +1,2 @@
-# gamblingbehavior
-Using cluster analysis to organize and quantify gamblers based on their behavior.
+# bondyieldvolatility
+Creation of a GARCH model to better understand how bond volatility evolves and potentially affects probability distribution.
